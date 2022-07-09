@@ -1,2 +1,8 @@
 Este archivo sigue siendo de prueba
 dia 09072022
+hago el archivo
+lo guardo en el repositorio
+aparece la U
+hago clic en CCF aparecen los cambio
+hago el commit
+confirmar y sincronizar
