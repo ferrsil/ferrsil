@@ -4,6 +4,6 @@ hago el archivo
 lo guardo en el repositorio
 aparece la U
 hago clic en CCF
-tengo que almacenar para que se guarden los cambio
+tengo que ir a cambios y clic en almacenar para que se guarden los cambio
 hago el commit
 confirmar y sincronizar
