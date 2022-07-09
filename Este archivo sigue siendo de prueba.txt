@@ -3,6 +3,7 @@ dia 09072022
 hago el archivo
 lo guardo en el repositorio
 aparece la U
-hago clic en CCF aparecen los cambio
+hago clic en CCF
+tengo que almacenar para que se guarden los cambio
 hago el commit
 confirmar y sincronizar
